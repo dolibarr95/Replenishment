@@ -14,7 +14,7 @@ Complementary attributes (orders)
 | Label    |As you want|
 | Attribute code    |reappro|
 | Type | Select from table|
-| Value | commande:ref:rowid |
+| Value | `commande:ref:rowid` |
 | Position | 0 |
 | Default value (Database) ||
 | Unique ||
