@@ -11,6 +11,7 @@ Complementary attributes (orders)
 
 | Attribute         | Value  |
 | -------------     | -----: |
+| Label    |As you want|
 | Attribute code    |reappro|
 | Type | Select from table|
 | Value | commande:ref:rowid |
